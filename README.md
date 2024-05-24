@@ -1,5 +1,5 @@
 # basic_phase_vocoder
-Made for vk
+
 # What it does
 Stretches or shortens the audio .wav file without chaning the pitch
 # How it works
